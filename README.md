@@ -1,49 +1,139 @@
-# Pbou2023
+# Hi, I'm Bouhagiar Pavlos!
 
-Hello, I'm Bouhagiar Pavlos.
+I'm a **Computer Games Programming graduate** with hands-on experience developing games, gameplay systems, prototypes, and modifications for existing games and mods using **Godot and Unity**.
 
-I'm a Computer Games Programming graduate with hands-on experience developing games, gameplay systems, creating modifications (mods) for games and other existing mods and especially prototypes using Godot and Unity.
+My interests include systems-driven game development, gameplay mechanics, programming, debugging, and software testing.
 
-My interests include systems-driven game development, gameplay mechanics, debugging, and software testing.
+I enjoy designing and implementing interconnected gameplay systems, experimenting with new mechanics, and solving technical challenges through iterative development and testing.
 
-Featured Projects
+---
 
-Wreck & Salvage - In development
-A Godot 3D prototype featuring runtime procedural destruction, structural support simulation, physics interactions, and dynamically destructible environments.
+## Featured Projects
 
-Core Breach Reborn - In development
-A 2D action bullet hell roguelite project featuring interconnected gameplay systems, progression mechanics, and modular content.
+### Wreck & Salvage — In Development
+**Engine:** Godot | **Type:** 3D First-Person Destruction & Extraction
 
-Directive Extraction - Prototype
-A Unity project exploring extraction gameplay, combat, inventory management, and enemy AI.
+A first-person prototype centered around environmental destruction, physics interactions, and structural simulation.
 
-FpsRogueLikeExtraction - Prototype
+**Key Features:**
+- Runtime procedural destruction across multiple geometry types.
+- Directional damage and dynamically generated destruction geometry.
+- Structural support and load-bearing systems.
+- Physics-based debris and structural collapse.
+- Impact damage allowing falling objects to damage other structures.
+- Performance optimization for complex destruction calculations.
 
-Also referred to as Project overdrive. A 3D roguelike with an ultrakill like movement system, combat, enemy AI, dual currency system, permanent weapon and player upgrades, item system similar to risk of rain 2
+### Core Breach Reborn — In Development
+**Engine:** Godot | **Type:** 2D Action Roguelite / Bullet Hell
 
+A 2D action roguelite featuring interconnected gameplay systems, progression mechanics, and modular content.
 
-Slipstream - Prototype
+**Key Areas:**
+- Gameplay and combat mechanics.
+- Item, relic, and upgrade systems.
+- Character progression and build customization.
+- Modular systems designed to support additional content.
 
-Loot extraction with emphasis on movement. Including, Momentum based movement, sliding, wall running, wall jumping, mantling, weight and injury system affecting movement, scene transitions saving data (Quota and currency). 
- 
-Voxel Destruction & Voxel Prototype - Prototypes
+### Night Shift — Completed
+**Engine:** Unity | **Type:** Horror Game
 
-First attempt at working with destruction based systems specifically with voxel objects i made myself in vox edit. Voxel Destruction focused purely on the destruction side of things and was built up to be a small simulator prototype. Including random jobs with different destruction requirements and satisfying Voxel destruction. It included 3 different tools with different types of destruction (sledgehammer, sword, combat knife.) The voxel prototype focused on a more arena fighter with enemies spawning and you fighting them. Including animations made in unity and limb decapitation. 
+A small horror game developed over approximately two weeks, featuring customer interactions, crafting mechanics, and enemy AI.
 
-Horror game/Night Shift - Finished
+**Key Features:**
+- Customer order and interaction system.
+- Simple crafting system.
+- Enemy AI with roaming, investigation, and chase behaviors.
+- A complete, playable horror experience.
 
-Night Shift is a very small horror game i built in 2 weeks. Including a simple customer order system. Simple crafting system. And an Enemy ai that roams, chases and investigates. 
+---
 
-Technologies & Skills
+## Additional Projects & Prototypes
 
-Game Engines: Godot, Unity
+### Directive Extraction
+**Engine:** Unity | **Type:** Extraction Prototype
 
-Programming: GDScript, C#, C++
+A gameplay prototype exploring:
+- Extraction-based gameplay.
+- Combat systems.
+- Inventory management.
+- Enemy AI.
 
-Art & Content Creation : Blender, vox edit, aseprite, krita
+### Project Overdrive (FPS Roguelike Extraction)
+**Engine:** Unity | **Type:** 3D Roguelike FPS
 
-Other: Gameplay testing, debugging, bug reporting, game modding
+A first-person roguelike prototype inspired by fast-paced movement shooters such as ULTRAKILL and progression systems similar to Risk of Rain 2.
 
-Career Interests
+**Features Implemented:**
+- Fast-paced movement and combat.
+- Enemy AI.
+- Dual-currency system.
+- Permanent weapon and player upgrades.
+- Item-based character progression.
 
-Interested in junior game development, game QA, and software testing opportunities.
+### Slipstream
+**Type:** Movement-Focused Extraction Prototype
+
+A loot-extraction prototype emphasizing momentum-driven movement and player mobility.
+
+**Features Implemented:**
+- Momentum-based movement.
+- Sliding, wall running, and wall jumping.
+- Mantling.
+- Weight and injury systems affecting movement.
+- Scene transitions with persistent quota and currency data.
+
+### Voxel Destruction & Voxel Prototype
+**Type:** Experimental Destruction & Combat Prototypes
+
+Early experiments with voxel-based destruction using custom voxel objects created in VoxEdit.
+
+**Voxel Destruction:**
+- Destructible voxel environments.
+- Randomly generated jobs with different destruction objectives.
+- Three tools with distinct destruction behaviors: sledgehammer, sword, and combat knife.
+
+**Voxel Prototype:**
+- Arena-style enemy encounters.
+- Enemy spawning and combat.
+- Character animations created in Unity.
+- Limb dismemberment mechanics.
+
+---
+
+## Technologies & Skills
+
+**Game Engines**
+- Godot
+- Unity
+
+**Programming Languages**
+- GDScript
+- C#
+- C++
+
+**Art & Content Creation**
+- Blender
+- VoxEdit
+- Aseprite
+- Krita
+
+**Development & Testing**
+- Gameplay systems development
+- Game modding
+- Gameplay testing and debugging
+- Bug identification and reporting
+- Iterative prototyping
+- Performance testing and optimization
+
+---
+
+## Career Interests
+
+I'm interested in opportunities involving:
+
+- Junior Game Development
+- Game QA / Game Testing
+- Software Quality Assurance
+- Gameplay Systems Development
+
+I'm eager to continue developing my technical skills, contribute to real-world projects, and gain professional experience in game development and software testing.
