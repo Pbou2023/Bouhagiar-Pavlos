@@ -137,3 +137,27 @@ I'm interested in opportunities involving:
 - Gameplay Systems Development
 
 I'm eager to continue developing my technical skills, contribute to real-world projects, and gain professional experience in game development and software testing.
+
+
+## Published Game Mods
+
+### NemesisAmpExpanded — Risk of Rain 2
+
+A gameplay expansion for Nemesis Amp featuring:
+
+- New alternate skills and major skill reworks.
+- Expanded Controlled Charge and Gathering Storm mechanics.
+- Custom skins, visual effects, and color configurations.
+- Gameplay balancing, improvements, and bug fixes.
+
+**[View on Thunderstore](https://old.thunderstore.io/package/Alastair_069/NemesisAmpExpanded/)**
+
+### PermanentAqueductPlates — Risk of Rain 2
+
+A quality-of-life mod that makes pressure plates in Abandoned Aqueduct remain permanently activated once pressed.
+
+Designed to simplify opening the hidden chamber without requiring pot rolling or another player.
+
+**[View on Thunderstore](https://old.thunderstore.io/package/Alastair_069/PermanentAqueductPlates/)**
+
+
