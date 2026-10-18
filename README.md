@@ -1,4 +1,4 @@
-# Bouhagiar-Pavlos
+# Pbou2023
 
 Hello, I'm Bouhagiar Pavlos.
 
@@ -40,7 +40,7 @@ Game Engines: Godot, Unity
 
 Programming: GDScript, C#, C++
 
-3D Tools: Blender, vox edit, aseprite, krita
+Art & Content Creation : Blender, vox edit, aseprite, krita
 
 Other: Gameplay testing, debugging, bug reporting, game modding
 
